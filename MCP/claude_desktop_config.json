@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "trade": {
+      "command": "cmd",
+      "args": ["/c", "npx", "tsx", "E:\\Learning\\MCP\\index.ts"],
+      "options": {
+        "cwd": "\\Learning\\MCP"
+      }
+    }
+  }
+}
